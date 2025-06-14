@@ -1,0 +1,5 @@
+{
+    "name": "i-Vent Smart Home",
+    "render_readme": true,
+    "domains": ["ivent"]
+  }
